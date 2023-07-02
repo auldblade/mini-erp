@@ -1,0 +1,8 @@
+$color: #b94040;
+body {
+  background-color: $color;
+  user-select: none;
+}
+img {
+  -webkit-user-drag: none;
+}
